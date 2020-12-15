@@ -1,0 +1,30 @@
+#Enderchest per chunk limit config options.
+EchestLimit: 25
+EchestMsg: "&6Enderchest's are limited to 25 per chunk due to lag."
+
+#Customize Creeper Damage Value.
+CreeperDamageValue: 5
+
+#Customize the /help menu.
+help:
+  - "&1&m-----------------------------------------------------"
+  - "&b/createukit &3- create your own user kit"
+  - "&b/deleteukit &3- delete one of your user made kits"
+  - "&b/renameukit &3- rename one of your user made kits"
+  - "&b/hub &3- teleport to the main hub / cpvp arena"
+  - "&b/kc &3- teleport to the kit creator"
+  - "&b/32k &3- teleport to the 32k pvp arena"
+  - "&b/cegg &3- teleport to the creeper egg pvp arena"
+  - "&b/ie rename <name> &3- rename an item in your hand"
+  - "&b/duel <player> &3- duel a player"
+  - "&b/info &3- get info about the server's statistics"
+  - "&b/ignore <name> &3- ignore a player."
+  - "&b/ignorelist &3- list of your ignored players."
+  - "&b/r <message> &3- reply to the last person that messaged you."
+  - "&b/l <message> &3- message the last person that you messaged."
+  - "&b/w <name> <message> &3- pm a player."
+  - "&b/togglechat &3- toggle the default chat."
+  - "&b/toggledeathmsg &3- toggle all death messages."
+  - "&b/kill &3- kill yourself."
+  - "&b/discord &3- join the discord"
+  - "&1&m-----------------------------------------------------"

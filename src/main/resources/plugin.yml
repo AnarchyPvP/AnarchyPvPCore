@@ -1,0 +1,22 @@
+name: AnarchyPvPCore
+version: ${project.version}
+main: pw.anarchypvp.main.Main
+authors: [SevJ6]
+description: Core plugin for the server AnarchyPvP
+commands:
+  apr:
+    description: reloads config
+  hub:
+    description: teleports you to the main hub / cpvp arena
+  32k:
+    description: teleports you to the 32k arena
+  kc:
+    description: teleports you to the kitcreator
+  cegg:
+    description: teleports you to the creeper egg pvp arena
+  help:
+    description: shows the help menu
+  info:
+    description: shows server statistics
+  players:
+    description: shows player counts in all arenas
